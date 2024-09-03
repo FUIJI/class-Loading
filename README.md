@@ -1,2 +1,2 @@
 # class-Loading
- loading animation inpython
+ loading animation in python
